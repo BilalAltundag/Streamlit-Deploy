@@ -1,4 +1,5 @@
 # Streamlit-Deploy
+Strimlit Sitesi = https://bilalaltundag-streamlit-deploy-app-9z5rg8.streamlitapp.com
 
 Veri Seti = https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries
 

@@ -34,11 +34,10 @@ def plot_map(data_plot,option):
     )
     return choropleth_map
 
-job_list = []
+job_list = ["All"]
 with open('job_names.txt') as f:
     for line in f:
         job_list.append(line.replace("'","").split(",")[0].strip())
-job_list.append("All")
 
 st.title("Data Science Job Salaries")
 

@@ -12,6 +12,6 @@ Then we create a file called **requirements.txt** and write the names of the lib
 
 Finally, we add the necessary additional files to our github repository.
 
-When these processes are finished, we go to https://streamlit.io/cloud and create an account if you do not have an account. We click on create a "new app" and select the repository we uploaded on github and deploy it.
+When these processes are finished, we go to https://streamlit.io/cloud and create an account if you do not have an account. We click on create a **new app** and select the repository we uploaded on github and deploy it.
 
 Congratulations, you now have a simple website that users can access over the internet!

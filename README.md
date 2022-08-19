@@ -8,7 +8,7 @@ Our aim is to analyze data through this information and deploy our project via S
 
 First, we create a file called **app.py** and write our streamlit code.
 
-Then we create a file called **requirements.txt** and write the names of the libraries you created in the app.py python code.
+Then we create a file called **requirements.txt** and write the names of the libraries you created in the **app.py** python code.
 
 Finally, we add the necessary additional files to our github repository.
 

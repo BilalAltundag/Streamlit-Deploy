@@ -43,9 +43,6 @@ job_list.append("All")
 st.title("Data Science Job Salaries")
 
 data = pd.read_csv("ds_salaries.csv")
-data.rename(columns = {data.columns[0]:'index'}, inplace = True)
-data.set_index(data.columns[0], inplace=True)
-
 st.write(data[:10])
 
 option = st.selectbox(
